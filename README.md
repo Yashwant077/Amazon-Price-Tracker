@@ -1,5 +1,5 @@
 # Amazon-Price-Tracker
-* It will notify(via email) you if a product price hits your entered price range on amazon.   
+* Here, If a product's price falls within your specified range on Amazon, you will receive an email notification.   
    
 ### Python Libraries Used:
 * **requests** to access or browse the product url on the browser.   
