@@ -3,5 +3,5 @@
    
 ### Python Libraries Used:
 * **requests** to access or browse the product url on the browser.   
-* **smtplib** to send the mail whenever product price hits an entered price.
-* **BeautifulSoup** for web scrapping and getting the current price of the product.
+* **smtplib** to send a mail whenever product price hits an entered price.    
+* **BeautifulSoup** for web scrapping and getting the current price of the product.     
